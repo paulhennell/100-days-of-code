@@ -13,3 +13,18 @@ Insert the current date in vim like the title of this:
     :put =strftime('%a %d %b %Y')
 
 **Link to work:** -
+
+
+### Day 1: Wed 20 May 2020
+
+**Today's Progress**: Installed Vue Cli to try setting up a stand alone vue app for use on external websites. Made a little proof of concept frame that can hold a component and be embedable in a wordpress page!
+
+**Thoughts:** I need to work out the best structure for managaing the base framework that can hold various components inside. Started learning about git submodules which might do the trick.
+
+**Snipit of the day:**
+
+Add a submodule to git:
+
+    git submodule add [URL]
+
+**Link to work:** -
