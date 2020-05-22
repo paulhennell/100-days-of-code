@@ -28,3 +28,13 @@ Add a submodule to git:
     git submodule add [URL]
 
 **Link to work:** -
+
+### Day 2: Thur 21 May 2020
+
+**Today's Progress**: Spent too long trying to understand a stupid thing with CSS, so went back to my more familar PHP and tried some things with collection pipelines. Map Filter reduce etc are great, but I still instintivly start writing foreach loops even when filter would be so much quicker.
+
+**Thoughts:** Make more of an effort when writing a loop to question if this obviously should be something better. Revisit current projects and refactor down to get more into the habbit.
+
+**Snipit of the day:**
+
+**Link to work:** -

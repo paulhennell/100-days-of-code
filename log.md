@@ -38,3 +38,17 @@ Add a submodule to git:
 **Snipit of the day:**
 
 **Link to work:** -
+
+
+
+### Day 3: Fri 22 May 2020
+
+**Today's Progress**: Setup the Vue project proper - made the base widget frame & design, then got carried away writing the core logic as well! Watched some videos about JS as I did because I'm constantly lost on when 'this' in Vue works or not.
+
+**Thoughts:** Flex box is becoming a lot more natural to me now, and vue seems to be making more sense. Video explaining how fat arrow functions and the scope inheritance of functions in JS is annoying, but explains why I'm confused. 
+
+**Snipit of the day:**
+
+**Link to work:** -
+
+
